@@ -1,3 +1,5 @@
 /assets
-./favicon.ico
-./index.html
+assets
+/static
+static
+./favicon.ico  
